@@ -7,7 +7,7 @@ créer un Form = RegistrationType
 Sur templates = login.html.twig / registration.html.twig / edit.html.twig / index.html.twig / detail.html.twig
 
 Les conditions du Sign Up:
-Email doit etre unique c-à-d non exite dans la base de données
+Email doit etre unique c-à-d n'exste pas une duplication dans la base de données
 le Password doit contenir au minimum 8 caractères et le meme que ConfirmPassword
 le ConfirmPassword doit etre le meme que Password
 
